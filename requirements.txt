@@ -1,0 +1,16 @@
+affine
+geopandas
+rasterio
+rasterstats
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+matplotlib
+pyyaml
+scipy
+joblib
+tqdm
+pyproj
+rtree

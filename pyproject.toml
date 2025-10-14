@@ -1,0 +1,14 @@
+[project]
+name = "pmd"
+version = "1.0.0"
+description = "Predictive mapping of oil spill-induced mangrove degradation (Nigeria)"
+authors = [{name="Desmond R. Eteh"}, {name="U. C. Akajiaku"}]
+readme = "README.md"
+requires-python = ">=3.9"
+
+[project.scripts]
+pmd = "pmd.cli:app"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

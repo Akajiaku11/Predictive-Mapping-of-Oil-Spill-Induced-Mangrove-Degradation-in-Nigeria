@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it.
+title: Predictive Mapping of Oil Spill‑Induced Mangrove Degradation in Nigeria
+authors:
+  - family-names: Eteh
+    given-names: Desmond Rowland
+  - family-names: Akajiaku
+    given-names: Ugochukwu Charles
+  - family-names: Mogo
+    given-names: Felicia Chinwe
+version: "1.0.0"
+date-released: 2025-10-14
+license: MIT
